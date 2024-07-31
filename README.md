@@ -24,15 +24,16 @@ Pour jouer à **Galaxy**, vous devez avoir Python installé sur votre ordinateur
   pip install pygame
 
 Clonez le dépôt Git contenant le jeu :
-
+  
+  ```bash
   git clone git@github.com:PierreAntoine-Dumond/Galaxy.git
 
 Accédez au répertoire du jeu :
-
+  ```bash
   cd Galaxy
 
 Exécutez le jeu :
-
+  ```bash
   python main.py
 
 Commandes du Jeu
